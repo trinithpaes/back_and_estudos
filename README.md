@@ -10,6 +10,8 @@ Este repositório reúne meus estudos e projetos práticos de **desenvolvimento 
 - **Projetos Práticos**: Pequenas aplicações para consolidar conceitos.
 - **DevOps e Testes**: Docker, testes automatizados, CI/CD.
 - **XML**
+- **JSON**
+- **YAML**
 ## 🎯 Objetivo
 Consolidar meu aprendizado em Back-End e construir uma base sólida para atuar profissionalmente na área.
 
