@@ -13,5 +13,5 @@ Este repositório reúne meus estudos e projetos práticos de **desenvolvimento 
 ## 🎯 Objetivo
 Consolidar meu aprendizado em Back-End e construir uma base sólida para atuar profissionalmente na área.
 
----
+---Trinith Paes
 
